@@ -1,2 +1,3 @@
 # hello-world
-Sample Repository
+Sample Code
+Saved changes in github are called committs
